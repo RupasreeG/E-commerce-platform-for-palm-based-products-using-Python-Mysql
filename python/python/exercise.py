@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+f=(a+b+c+d+e)
+g=f/5
+if(g<=35):
+    print("improve")
+else:
+    print("good")
